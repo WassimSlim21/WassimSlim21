@@ -19,6 +19,13 @@ School
 - Socket IO NodeJS: https://github.com/WassimSlim21/SocketIO
 - Transeasier Angular App for public transpot: https://github.com/amine900/transeasier
 - 
+  <a target="_blank" rel="noopener noreferrer" href="/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp"><img height="150" width="150" src="/JayantGoel001/JayantGoel001/raw/master/WEBP/left.webp" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2dbf9c27663b5a96d000ec22957d2c05478d9d06a6745cbbbf263e86bd371c08/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a6179616e74476f656c303031267468656d653d6461726b26686964655f626f726465723d74727565"><img align="center" src="https://camo.githubusercontent.com/2dbf9c27663b5a96d000ec22957d2c05478d9d06a6745cbbbf263e86bd371c08/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a6179616e74476f656c303031267468656d653d6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp"><img height="150" width="150" src="/JayantGoel001/JayantGoel001/raw/master/WEBP/right.webp" style="max-width: 100%;"></a>
+</p>
+<h1 dir="auto"></h1>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"><img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" style="max-width: 100%;"></a></p>
+<br>
 <p dir="auto"><strong>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</strong></p>
 <br>
 <br>
