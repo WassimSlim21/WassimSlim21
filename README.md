@@ -1,7 +1,11 @@
-### Hi there 👋
+###  𝐇i 𝐭𝐡𝐞𝐫𝐞, all <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋
 
-<!--
-**WassimSlim21/WassimSlim21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Computer Science and Engineering Student (BI & ERP) at ESPRIT, Private Engineering and Technology
+School
+
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack, MVC Project etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😍
+
 
 Here are some ideas to get you started:
 
