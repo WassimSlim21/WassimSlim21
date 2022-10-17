@@ -13,11 +13,15 @@ School
 - Node JS, ExpressJS, MongoDB workshops: https://github.com/WassimSlim21/all_node_workshops
 - Mongoose module : https://github.com/WassimSlim21/mongooseAPI
 - Formula 1 api : https://github.com/WassimSlim21/apiF1
+- Formula 1 ETL - Reports : https://github.com/WassimSlim21/WefastReports.git
+- Formula 1 Angular : https://github.com/WassimSlim21/wefastfront
 - CRM MEAN STACK application : https://github.com/WassimSlim21/CRM-
 - Angular Crud and routing project : https://github.com/WassimSlim21/Projet-Angular-Crud-Routing
 - ICU angular front: https://github.com/2nour/ICU_FRONT
 - Socket IO NodeJS: https://github.com/WassimSlim21/SocketIO
 - Transeasier Angular App for public transpot: https://github.com/amine900/transeasier
+- Text mining polarity analysis and words frequency : https://gitlab.com/WassimSlim21/text-mining-polarity-analysis-and-word-frequency
+
 
 <h1 dir="auto"></h1>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"><img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" style="max-width: 100%;"></a></p>
