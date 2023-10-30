@@ -47,5 +47,21 @@ I'm excited to bring my expertise in data analysis and web development to contri
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" style="max-width: 100%;"></a></code></p>
 <code><img height="40" width="40" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/70/TalendLogoCoral.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://www.synaltic.fr/wp-content/uploads/2020/11/Logo-Qlik.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://www.calltrackingmetrics.com/wp-content/uploads/2019/03/logo_google-data-studio_3.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://aircraft.airbus.com/sites/g/files/jlcbta126/files/styles/airbus_480x480/public/2022-10/logo_s.png?itok=F2r2FaOj" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1138px-Apache_Hive_logo.svg.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="max-width: 100%;"></code></p>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="max-width: 100%;"></code></p>
 
 <br>
