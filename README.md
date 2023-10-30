@@ -52,7 +52,6 @@ I'm excited to bring my expertise in data analysis and web development to contri
 <code><img height="40" width="40" src="https://www.synaltic.fr/wp-content/uploads/2020/11/Logo-Qlik.png" style="max-width: 100%;"></code>
 <code><img height="40" width="40" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" style="max-width: 100%;"></code>
 <code><img height="40" width="40" src="https://www.calltrackingmetrics.com/wp-content/uploads/2019/03/logo_google-data-studio_3.png" style="max-width: 100%;"></code>
-<code><img height="40" width="40" src="https://brand.airbus.com/sites/g/files/jlcbta121/files/styles/airbus_1056x1056/public/2021-07/Skywise_logo.webp?itok=GrO4CVgJ" style="max-width: 100%;"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" style="max-width: 100%;"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png" style="max-width: 100%;"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1138px-Apache_Hive_logo.svg.png" style="max-width: 100%;"></code>
