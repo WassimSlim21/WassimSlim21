@@ -1,27 +1,25 @@
-###  𝐇i 𝐭𝐡𝐞𝐫𝐞, all <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋
+### Hi there, fellow developers! 👋
 
-## I'm a Computer Science and Engineering Student (BI & ERP) at ESPRIT, Private Engineering and Technology
-School
+## I'm Wassim Slim, a Computer Science and Engineering graduate with a specialization in Business Intelligence (BI) & ERP.
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript,NodeJS, Angular, Spring boot, Spring MVC, .Net etc...
-- 📚 I’m currently learning everything about Business intelligence, data mining, machine learning and deep learning 😍
-- 🎯 Future Goals: Learn more technologies - Learning to become a full-stack and BI developer.
-- ⚡ Fun facts: Open and friendly. I love music producing.
+- 👨‍💻 I have extensive experience in web development using technologies like JavaScript, Node.js, Angular, Spring Boot, Spring MVC, .NET, and more.
+- 📊 As a seasoned Data Analyst, I've delved deep into Business Intelligence, data mining, machine learning, and deep learning, both academically and in my professional career.
+- 🎯 Future Goals: My ambition is to further enhance my full-stack development skills while continuing to excel in the field of Business Intelligence.
+- ⚡ Fun facts: I'm an open and friendly individual with a passion for music production.
 
-## Project for learning
+## Notable Projects
 
-- Node JS, ExpressJS, MongoDB workshops: https://github.com/WassimSlim21/all_node_workshops
-- Mongoose module : https://github.com/WassimSlim21/mongooseAPI
-- Formula 1 api : https://github.com/WassimSlim21/apiF1
-- Formula 1 ETL - Reports : https://github.com/WassimSlim21/WefastReports.git
-- Formula 1 Angular : https://github.com/WassimSlim21/wefastfront
-- CRM MEAN STACK application : https://github.com/WassimSlim21/CRM-
-- Angular Crud and routing project : https://github.com/WassimSlim21/Projet-Angular-Crud-Routing
-- ICU angular front: https://github.com/2nour/ICU_FRONT
-- Socket IO NodeJS: https://github.com/WassimSlim21/SocketIO
-- Transeasier Angular App for public transpot: https://github.com/amine900/transeasier
-- Text mining polarity analysis and words frequency : https://gitlab.com/WassimSlim21/text-mining-polarity-analysis-and-word-frequency
+- Formula 1 Data Analysis: Leveraging my BI and data analysis skills, I've successfully completed projects related to Formula 1 data, including ETL processes and report generation. Repository: [Formula 1 ETL - Reports](https://github.com/WassimSlim21/WefastReports.git)
 
+- Full-Stack CRM Application: I've been a key contributor to a CRM application using the MEAN stack (MongoDB, Express.js, Angular, Node.js). Repository: [CRM MEAN STACK Application](https://github.com/WassimSlim21/CRM-)
+
+- Angular Projects: I've created Angular applications with features such as CRUD operations and routing. Repository: [Angular CRUD and Routing Project](https://github.com/WassimSlim21/Projet-Angular-Crud-Routing)
+
+- Node.js and MongoDB Workshops: I've participated in workshops and projects involving Node.js, Express.js, and MongoDB. Repository: [Node.js Workshops](https://github.com/WassimSlim21/all_node_workshops)
+
+- More on GitHub: Explore additional projects that showcase my web development and data analysis skills on my GitHub profile.
+
+I'm excited to bring my expertise in data analysis and web development to contribute to innovative and challenging projects. Feel free to connect and explore my work!
 
 <h1 dir="auto"></h1>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"><img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" style="max-width: 100%;"></a></p>
