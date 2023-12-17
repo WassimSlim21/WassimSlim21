@@ -1,11 +1,19 @@
-### Hi there, fellow developers! 👋
+### Hello there, fellow developers! 👋
 
-## I'm Wassim Slim, a Computer Science and Engineering graduate with a specialization in Business Intelligence (BI) & ERP.
+## I'm Wassim Slim, a Computer Science and Engineering graduate specializing in Business Intelligence (BI) & ERP. 💼
 
-- 👨‍💻 I have extensive experience in web development using technologies like JavaScript, Node.js, Angular, Spring Boot, Spring MVC, .NET, and more.
-- 📊 As a seasoned Data Analyst, I've delved deep into Business Intelligence, data mining, machine learning, and deep learning, both academically and in my professional career.
-- 🎯 Future Goals: My ambition is to further enhance my full-stack development skills while continuing to excel in the field of Business Intelligence.
-- ⚡ Fun facts: I'm an open and friendly individual with a passion for music production.
+- 👨‍💻 With a strong foundation in web development, I've mastered technologies such as JavaScript, Node.js, Angular, Spring Boot, Spring MVC, .NET, and more.
+- 📊 As a seasoned Data Analyst, my expertise extends to Business Intelligence, data mining, machine learning, and deep learning, blending academic knowledge with hands-on professional experience.
+- 🎯 Future Goals: My ambition is to elevate my full-stack development skills, continually excelling in the ever-evolving landscape of Business Intelligence.
+- ⚡ Fun facts: Outside the coding realm, I'm an open and friendly individual with a passion for music production. Let's connect and collaborate on exciting projects! 🎵🤝
+
+
+
+🚀 Career Highlights:
+
+- Airbus Internship: Transformed budget tracking with data analysis and automated processes, reducing manual efforts by 80%.
+- Go My Code Experience: Instructed backend technologies, emphasizing Node.js, Express.js, and MongoDB, while championing effective version control with Git.
+- KNSD Data Analyst Internship: Designed scalable data warehouse solutions, streamlining data retrieval processes and reducing time by 70%.
 
 ## Notable Projects
 - Breast cancer Analysis : Explore the application of machine learning techniques, specifically Decision Trees and Support Vector Machines (SVMs), in classifying breast cancer. Leveraging the scikit-learn library, this project delves into the analysis of a breast cancer dataset, aiming to build accurate and interpretable models for the diagnosis of malignancy.
