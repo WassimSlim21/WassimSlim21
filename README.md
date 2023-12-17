@@ -8,14 +8,20 @@
 - ⚡ Fun facts: I'm an open and friendly individual with a passion for music production.
 
 ## Notable Projects
+- Breast cancer Analysis : Explore the application of machine learning techniques, specifically Decision Trees and Support Vector Machines (SVMs), in classifying breast cancer. Leveraging the scikit-learn library, this project delves into the analysis of a breast cancer dataset, aiming to build accurate and interpretable models for the diagnosis of malignancy.
+Repository : https://github.com/WassimSlim21/Breast_Cancer_Data_Analysis
 
-- Formula 1 Data Analysis: Leveraging my BI and data analysis skills, I've successfully completed projects related to Formula 1 data, including ETL processes and report generation. Repository: [Formula 1 ETL - Reports](https://github.com/WassimSlim21/WefastReports.git)
+- Formula 1 Data Analysis: Leveraging my BI and data analysis skills, I've successfully completed projects related to Formula 1 data, including ETL processes and report generation.
+Repository: [Formula 1 ETL - Reports](https://github.com/WassimSlim21/WefastReports.git)
 
-- Full-Stack CRM Application: I've been a key contributor to a CRM application using the MEAN stack (MongoDB, Express.js, Angular, Node.js). Repository: [CRM MEAN STACK Application](https://github.com/WassimSlim21/CRM-)
+- Full-Stack CRM Application: I've been a key contributor to a CRM application using the MEAN stack (MongoDB, Express.js, Angular, Node.js).
+Repository: [CRM MEAN STACK Application](https://github.com/WassimSlim21/CRM-)
 
-- Angular Projects: I've created Angular applications with features such as CRUD operations and routing. Repository: [Angular CRUD and Routing Project](https://github.com/WassimSlim21/Projet-Angular-Crud-Routing)
+- Angular Projects: I've created Angular applications with features such as CRUD operations and routing.
+Repository: [Angular CRUD and Routing Project](https://github.com/WassimSlim21/Projet-Angular-Crud-Routing)
 
-- Node.js and MongoDB Workshops: I've participated in workshops and projects involving Node.js, Express.js, and MongoDB. Repository: [Node.js Workshops](https://github.com/WassimSlim21/all_node_workshops)
+- Node.js and MongoDB Workshops: I've participated in workshops and projects involving Node.js, Express.js, and MongoDB.
+Repository: [Node.js Workshops](https://github.com/WassimSlim21/all_node_workshops)
 
 - More on GitHub: Explore additional projects that showcase my web development and data analysis skills on my GitHub profile.
 
