@@ -9,7 +9,7 @@
 
 ## Notable Projects
 - Breast cancer Analysis : Explore the application of machine learning techniques, specifically Decision Trees and Support Vector Machines (SVMs), in classifying breast cancer. Leveraging the scikit-learn library, this project delves into the analysis of a breast cancer dataset, aiming to build accurate and interpretable models for the diagnosis of malignancy.
-Repository : https://github.com/WassimSlim21/Breast_Cancer_Data_Analysis
+Repository :  [Breast cancer analysis](https://github.com/WassimSlim21/Breast_Cancer_Data_Analysis.git)
 
 - Formula 1 Data Analysis: Leveraging my BI and data analysis skills, I've successfully completed projects related to Formula 1 data, including ETL processes and report generation.
 Repository: [Formula 1 ETL - Reports](https://github.com/WassimSlim21/WefastReports.git)
