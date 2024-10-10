@@ -1,21 +1,53 @@
-### Hello there, fellow developers! 👋
+# Hello there, fellow developers! 👋
 
-## I'm Wassim Slim, a Computer Science and Engineering graduate specializing in Business Intelligence (BI) & ERP. 💼
+## I'm Wassim Slim, Full Stack Developer & Data Engineer 🚀
 
-- 👨‍💻 With a strong foundation in web development, I've mastered technologies such as JavaScript, Node.js, Angular, Spring Boot, Spring MVC, .NET, and more.
-- 📊 As a seasoned Data Analyst, my expertise extends to Business Intelligence, data mining, machine learning, and deep learning, blending academic knowledge with hands-on professional experience.
-- 🎯 Future Goals: My ambition is to elevate my full-stack development skills, continually excelling in the ever-evolving landscape of Business Intelligence.
-- ⚡ Fun facts: Outside the coding realm, I'm an open and friendly individual with a passion for music production. Let's connect and collaborate on exciting projects! 🎵🤝
+### About Me:
+I'm a passionate developer with a strong foundation in **web development** and **data engineering**. My expertise spans a variety of technologies, from building dynamic full-stack applications to engineering robust data pipelines for business intelligence.
+
+### 🛠️ Tech Stack:
+- **Front-End Development:** ![Angular](https://img.icons8.com/color/48/angularjs.png) Angular, ![React](https://img.icons8.com/color/48/react-native.png) React, ![Symfony](https://img.icons8.com/color/48/symfony.png) Symfony 4
+- **Back-End Development:** ![Node.js](https://img.icons8.com/color/48/nodejs.png) Node.js, ![Express](https://img.icons8.com/color/48/express.png) Express.js, ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) Spring Boot, ![.Net](https://img.icons8.com/color/48/dot-net.png) .NET
+- **Data Engineering:** ![SQL Server](https://img.icons8.com/color/48/sql.png) SQL Server, ![PostgreSQL](https://img.icons8.com/color/48/postgresql.png) PostgreSQL, ![MongoDB](https://img.icons8.com/color/48/mongodb.png) MongoDB, ![Hadoop](https://img.icons8.com/color/48/hadoop.png) Hadoop, ![Spark](https://img.icons8.com/color/48/spark.png) Spark
+- **BI & Data Visualization:** ![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets
+- **DevOps & CI/CD:** ![Docker](https://img.icons8.com/color/48/docker.png) Docker, ![Kubernetes](https://img.icons8.com/color/48/kubernetes.png) Kubernetes, ![Jenkins](https://img.icons8.com/color/48/jenkins.png) Jenkins, ![Grafana](https://img.icons8.com/color/48/grafana.png) Grafana
+- **Languages & Tools:** ![Python](https://img.icons8.com/color/48/python.png) Python, ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/color/48/javascript.png) JavaScript, ![TypeScript](https://img.icons8.com/color/48/typescript.png) TypeScript, ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) C#, ![Git](https://img.icons8.com/color/48/git.png) Git
 
 
 
-🚀 Career Highlights:
+### 🎯 Future Goals:
+- I aim to continue developing my full-stack and data engineering expertise, integrating more advanced machine learning models and cloud solutions.
 
-- Aziza BI Developer Experience : Seamless Data Migration: Built a Node.js application for efficient data transfer from SQL Server to Google Sheets via API, integrated with SSIS and C# scripts 
-- Airbus Data Analyst Internship: Design and development of a solution for automating and optimizing budget tracking.
-- Go My Code Experience: Instructed backend technologies, emphasizing Node.js, Express.js, and MongoDB, while championing effective version control with Git.
-- KNSD Full Stack Developer Internship: Designed and created a CRM system and a decision-making tool that incorporated dashboards, aiming to ensure strategic monitoring of the activity of the Kpeiz application.
+### 📫 Let's Connect:
+- GitHub: [WassimSlim21](https://github.com/WassimSlim21)
+- LinkedIn: [Wassim Slim](https://www.linkedin.com/in/wassimslim)
+- Email: wassimslim18@gmail.com
 
+### ⚡ Fun Facts:
+Outside the coding world, I’m passionate about **music production** and collaborating on creative side projects! 🎵
+
+---
+Feel free to reach out to discuss collaboration or just to chat!
+
+
+
+## 🚀 Career Highlights:
+
+- **BI Developer at Aziza Retail (2024 - Present)** :   Created a data migration app using **Node.js**, **SSIS** and **MSSQLSERVER**, integrated with Google Sheets and Google Drive. Automated coupon systems using **Ngtrend API** and implemented advanced security with **OAuth 2.0** and IP whitelisting.
+- **Data Analyst Intern at Airbus (2023)** : Design and development of a solution for automating and optimizing budget tracking.
+- **Web Developement Instructor at GoMyCode(2022)** : Instructed backend technologies, emphasizing Node.js, Express.js, and MongoDB, while championing effective version control with Git.
+- **MEAN Stack Developer Intern at KNSD (2020)** : Built a CRM system with **Angular** and **Node.js**, improving user experience with real-time updates via **Socket.IO** and secure authentication with **JWT**.
+
+
+### 💼 Experience:
+- **Data Analyst Intern at Airbus (2023)**  
+  Developed an automated budget tracking solution using JavaScript, reducing manual effort by 80%. Designed interactive dashboards for KPI monitoring using Looker Studio.
+
+- **BI Developer at Aziza Retail (2024 - Present)**  
+  Created a data migration app using **Node.js** and **SSIS**, integrated with Google Sheets. Automated coupon systems using **Ngtrend API** and implemented advanced security with **OAuth 2.0** and IP whitelisting.
+
+- **MEAN Stack Developer Intern at KNSD (2020)**  
+  Built a CRM system with **Angular** and **Node.js**, improving user experience with real-time updates via **Socket.IO** and secure authentication with **JWT**.
 ## Notable Projects
 - Google APIs Data Management: A Node.js web app automating data management between Google Sheets, Drive, and SQL Server, featuring APIs for data import/export, file uploads, and ETL operations to streamline cross-platform data synchronization and file management.
 Repository: [Google_APIs_Data_Management](https://github.com/WassimSlim21/Google_APIs_Data_Management)
