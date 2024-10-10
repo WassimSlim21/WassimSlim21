@@ -77,7 +77,7 @@ I'm excited to bring my expertise in data analysis and web development to contri
 ![SSIS](https://img.icons8.com/color/48/ssis.png) SSIS, ![SSAS](https://img.icons8.com/color/48/ssis.png) SSAS, ![Talend](https://img.icons8.com/color/48/talend.png) Talend
 
 #### Data Visualization:
-![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI (DAX, Power Query), ![Qlikview](<img src="https://github.com/WassimSlim21/WassimSlim21/blob/main/logos/Qlik.png" alt="Qlikview" width="48" />) Qlikview, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets, ![Excel](https://img.icons8.com/color/48/ms-excel.png) Excel
+![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI (DAX, Power Query), ![Qlikview]https://raw.githubusercontent.com/WassimSlim21/WassimSlim21/blob/main/logos/Qlik.png) Qlikview, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets, ![Excel](https://img.icons8.com/color/48/ms-excel.png) Excel
 
 #### Databases:
 ![SQL Server](https://img.icons8.com/color/48/sql.png) SQL Server, ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) Oracle, ![PostgreSQL](https://img.icons8.com/color/48/postgresql.png) PostgreSQL, ![MongoDB](https://img.icons8.com/color/48/mongodb.png) MongoDB
