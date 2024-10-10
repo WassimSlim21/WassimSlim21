@@ -11,11 +11,16 @@
 
 🚀 Career Highlights:
 
-- Airbus Internship: Transformed budget tracking with data analysis and automated processes, reducing manual efforts by 80%.
+- Aziza BI Developer Experience : Seamless Data Migration: Built a Node.js application for efficient data transfer from SQL Server to Google Sheets via API, integrated with SSIS and C# scripts 
+- Airbus Data Analyst Internship: Design and development of a solution for automating and optimizing budget tracking.
 - Go My Code Experience: Instructed backend technologies, emphasizing Node.js, Express.js, and MongoDB, while championing effective version control with Git.
-- KNSD Data Analyst Internship: Designed scalable data warehouse solutions, streamlining data retrieval processes and reducing time by 70%.
+- KNSD Full Stack Developer Internship: Designed and created a CRM system and a decision-making tool that incorporated dashboards, aiming to ensure strategic monitoring of the activity of the Kpeiz application.
 
 ## Notable Projects
+- Google APIs Data Management: A Node.js web app automating data management between Google Sheets, Drive, and SQL Server, featuring APIs for data import/export, file uploads, and ETL operations to streamline cross-platform data synchronization and file management.
+Repository: [Google_APIs_Data_Management](https://github.com/WassimSlim21/Google_APIs_Data_Management)
+
+
 - Breast cancer Analysis : Explore the application of machine learning techniques, specifically Decision Trees and Support Vector Machines (SVMs), in classifying breast cancer. Leveraging the scikit-learn library, this project delves into the analysis of a breast cancer dataset, aiming to build accurate and interpretable models for the diagnosis of malignancy.
 Repository :  [Breast cancer analysis](https://github.com/WassimSlim21/Breast_Cancer_Data_Analysis.git)
 
