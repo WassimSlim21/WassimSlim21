@@ -62,9 +62,6 @@ Repository: [Node.js Workshops](https://github.com/WassimSlim21/all_node_worksho
 
 I'm excited to bring my expertise in data analysis and web development to contribute to innovative and challenging projects. Feel free to connect and explore my work!
 
-#### ETL & OLAP:
-![SSIS](https://img.icons8.com/color/48/ssis.png) SSIS, ![SSAS](https://img.icons8.com/color/48/ssis.png) SSAS, ![Talend](https://img.icons8.com/color/48/talend.png) Talend
-
 
 #### Data Visualization:
 ![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI (DAX, Power Query), Qlikview, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets, ![Excel](https://img.icons8.com/color/48/ms-excel.png) Excel
@@ -73,13 +70,13 @@ I'm excited to bring my expertise in data analysis and web development to contri
 ![SQL Server](https://img.icons8.com/color/48/sql.png) SQL Server, ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) Oracle, ![PostgreSQL](https://img.icons8.com/color/48/postgresql.png) PostgreSQL, ![MongoDB](https://img.icons8.com/color/48/mongodb.png) MongoDB
 
 #### Big Data Technologies:
-![Cloudera](https://img.icons8.com/color/48/hadoop-distributed-file-system.png) Cloudera, ![Hadoop](https://img.icons8.com/color/48/hadoop.png) Hadoop, ![Spark](https://img.icons8.com/color/48/spark.png) Spark, ![Hive](https://img.icons8.com/color/48/hive.png) Hive
+Cloudera, ![Hadoop](https://icons8.com/icon/69132/hadoop-distributed-file-system) Hadoop, Spark, ![Hive](https://icons8.com/icon/26058/hive) Hive
 
 #### Web Development:
 ![Angular](https://img.icons8.com/color/48/angularjs.png) Angular, ![Node.js](https://img.icons8.com/color/48/nodejs.png) NodeJS, ![Express.js](https://img.icons8.com/color/48/express.png) ExpressJS, ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) Spring Boot
 
 #### Programming Languages:
-![Python](https://img.icons8.com/color/48/python.png) Python, ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/color/48/javascript.png) JavaScript, ![TypeScript](https://img.icons8.com/color/48/typescript.png) TypeScript, ![C](https://img.icons8.com/color/48/c-programming.png) C, ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) C#, ![Bash](https://img.icons8.com/color/48/console.png) Linux Bash, ![Git](https://img.icons8.com/color/48/git.png) Git, ![SQL](https://img.icons8.com/color/48/sql.png) SQL, ![NoSQL](https://img.icons8.com/color/48/nosql.png) NoSQL, ![PL/SQL](https://img.icons8.com/color/48/sql.png) PL/SQL
+![Python](https://img.icons8.com/color/48/python.png) Python, ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/color/48/javascript.png) JavaScript, ![TypeScript](https://img.icons8.com/color/48/typescript.png) TypeScript, ![C](https://img.icons8.com/color/48/c-programming.png) C, ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) C#, ![Bash](https://img.icons8.com/color/48/console.png) Linux Bash, ![Git](https://img.icons8.com/color/48/git.png) Git, ![SQL](https://img.icons8.com/color/48/sql.png) SQL, ![PL/SQL](https://img.icons8.com/color/48/sql.png) PL/SQL
 
 #### Cloud Platforms:
 ![GCP](https://img.icons8.com/color/48/google-cloud.png) Google Cloud Platform (BigQuery, Dataflow, Pub/Sub)
