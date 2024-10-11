@@ -38,16 +38,6 @@ Feel free to reach out to discuss collaboration or just to chat!
 - **Web Developement Instructor at GoMyCode(2022)** : Instructed backend technologies, emphasizing Node.js, Express.js, and MongoDB, while championing effective version control with Git.
 - **MEAN Stack Developer Intern at KNSD (2020)** : Built a CRM system with **Angular** and **Node.js**, improving user experience with real-time updates via **Socket.IO** and secure authentication with **JWT**.
 
-
-### 💼 Experience:
-- **Data Analyst Intern at Airbus (2023)**  
-  Developed an automated budget tracking solution using JavaScript, reducing manual effort by 80%. Designed interactive dashboards for KPI monitoring using Looker Studio.
-
-- **BI Developer at Aziza Retail (2024 - Present)**  
-  Created a data migration app using **Node.js** and **SSIS**, integrated with Google Sheets. Automated coupon systems using **Ngtrend API** and implemented advanced security with **OAuth 2.0** and IP whitelisting.
-
-- **MEAN Stack Developer Intern at KNSD (2020)**  
-  Built a CRM system with **Angular** and **Node.js**, improving user experience with real-time updates via **Socket.IO** and secure authentication with **JWT**.
 ## Notable Projects
 - Google APIs Data Management: A Node.js web app automating data management between Google Sheets, Drive, and SQL Server, featuring APIs for data import/export, file uploads, and ETL operations to streamline cross-platform data synchronization and file management.
 Repository: [Google_APIs_Data_Management](https://github.com/WassimSlim21/Google_APIs_Data_Management)
@@ -72,9 +62,9 @@ Repository: [Node.js Workshops](https://github.com/WassimSlim21/all_node_worksho
 
 I'm excited to bring my expertise in data analysis and web development to contribute to innovative and challenging projects. Feel free to connect and explore my work!
 
-
 #### ETL & OLAP:
 ![SSIS](https://img.icons8.com/color/48/ssis.png) SSIS, ![SSAS](https://img.icons8.com/color/48/ssis.png) SSAS, ![Talend](https://img.icons8.com/color/48/talend.png) Talend
+
 
 #### Data Visualization:
 ![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI (DAX, Power Query), Qlikview, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets, ![Excel](https://img.icons8.com/color/48/ms-excel.png) Excel
