@@ -22,6 +22,7 @@ I'm a passionate developer with a strong foundation in **web development** and *
 - GitHub: [WassimSlim21](https://github.com/WassimSlim21)
 - LinkedIn: [Wassim Slim](https://www.linkedin.com/in/wassimslim)
 - Email: wassimslim18@gmail.com
+- Phone : +21655188740
 
 ### ⚡ Fun Facts:
 Outside the coding world, I’m passionate about **music production** and collaborating on creative side projects! 🎵
