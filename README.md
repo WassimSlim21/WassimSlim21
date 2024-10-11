@@ -7,9 +7,9 @@ I'm a passionate developer with a strong foundation in **web development** and *
 
 ### 🛠️ Tech Stack:
 - **Front-End Development:** ![Angular](https://img.icons8.com/color/48/angularjs.png) Angular, ![React](https://img.icons8.com/color/48/react-native.png) React, ![Symfony](https://img.icons8.com/color/48/symfony.png) Symfony 4
-- **Back-End Development:** ![Node.js](https://img.icons8.com/color/48/nodejs.png) Node.js, ![Express](https://img.icons8.com/color/48/express.png) Express.js, ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) Spring Boot, ![.Net](https://img.icons8.com/color/48/dot-net.png) .NET
-- **Data Engineering:** ![SQL Server](https://img.icons8.com/color/48/sql.png) SQL Server, ![PostgreSQL](https://img.icons8.com/color/48/postgresql.png) PostgreSQL, ![MongoDB](https://img.icons8.com/color/48/mongodb.png) MongoDB, ![Hadoop](https://img.icons8.com/color/48/hadoop.png) Hadoop, ![Spark](https://img.icons8.com/color/48/spark.png) Spark
-- **BI & Data Visualization:** ![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets
+- **Back-End Development:** ![Node.js](https://img.icons8.com/color/48/nodejs.png) Node.js, ![Express](https://img.icons8.com/color/48/express.png) Express.js, ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) Spring Boot,.NET
+- **Data Engineering:** ![SQL Server](https://img.icons8.com/color/48/sql.png) SQL Server,![PostgreSQL](https://github.com/user-attachments/assets/3ec7710a-cb52-4f3a-9e02-f4b8bd7b9e51), ![MongoDB](https://img.icons8.com/color/48/mongodb.png) MongoDB, ![Hadoop](https://github.com/user-attachments/assets/adf26a33-88b6-4fa8-ae3b-2c25abb8adc5) Hadoop, Spark
+- **BI & Data Visualization:** ![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets, ![Excel](https://img.icons8.com/color/48/ms-excel.png) Excel
 - **DevOps & CI/CD:** ![Docker](https://img.icons8.com/color/48/docker.png) Docker, ![Kubernetes](https://img.icons8.com/color/48/kubernetes.png) Kubernetes, ![Jenkins](https://img.icons8.com/color/48/jenkins.png) Jenkins, ![Grafana](https://img.icons8.com/color/48/grafana.png) Grafana
 - **Languages & Tools:** ![Python](https://img.icons8.com/color/48/python.png) Python, ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/color/48/javascript.png) JavaScript, ![TypeScript](https://img.icons8.com/color/48/typescript.png) TypeScript, ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) C#, ![Git](https://img.icons8.com/color/48/git.png) Git
 
@@ -61,44 +61,3 @@ Repository: [Node.js Workshops](https://github.com/WassimSlim21/all_node_worksho
 - More on GitHub: Explore additional projects that showcase my web development and data analysis skills on my GitHub profile.
 
 I'm excited to bring my expertise in data analysis and web development to contribute to innovative and challenging projects. Feel free to connect and explore my work!
-
-
-#### Data Visualization:
-![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI (DAX, Power Query), Qlikview, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets, ![Excel](https://img.icons8.com/color/48/ms-excel.png) Excel
-
-#### Databases:
-![SQL Server](https://img.icons8.com/color/48/sql.png) SQL Server, ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) Oracle, ![PostgreSQL](https://img.icons8.com/color/48/postgresql.png) PostgreSQL, ![MongoDB](https://img.icons8.com/color/48/mongodb.png) MongoDB
-
-#### Big Data Technologies:
-Cloudera, ![Hadoop](https://icons8.com/icon/69132/hadoop-distributed-file-system) Hadoop, Spark, ![Hive](https://github.com/user-attachments/assets/8ac0f135-8089-435a-8161-798e883c6032)
- Hive
-
-#### Web Development:
-![Angular](https://img.icons8.com/color/48/angularjs.png) Angular, ![Node.js](https://img.icons8.com/color/48/nodejs.png) NodeJS, ![Express.js](https://img.icons8.com/color/48/express.png) ExpressJS, ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) Spring Boot
-
-#### Programming Languages:
-![Python](https://img.icons8.com/color/48/python.png) Python, ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/color/48/javascript.png) JavaScript, ![TypeScript](https://img.icons8.com/color/48/typescript.png) TypeScript, ![C](https://img.icons8.com/color/48/c-programming.png) C, ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) C#, ![Bash](https://img.icons8.com/color/48/console.png) Linux Bash, ![Git](https://img.icons8.com/color/48/git.png) Git, ![SQL](https://img.icons8.com/color/48/sql.png) SQL, ![PL/SQL](https://img.icons8.com/color/48/sql.png) PL/SQL
-
-#### Cloud Platforms:
-![GCP](https://img.icons8.com/color/48/google-cloud.png) Google Cloud Platform (BigQuery, Dataflow, Pub/Sub)
-
-
-<h1 dir="auto">Technologies & Tools</h1>
-<p dir="auto"><strong>LANGUAGES AND TOOLS:</strong></p>
-<br>
-
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/express.png" alt="Express.js"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/python.png" alt="Python"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/git.png" alt="Git"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/docker.png" alt="Docker"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/qlikview.png" alt="QlikView"></code>
