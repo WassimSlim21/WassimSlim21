@@ -70,7 +70,8 @@ I'm excited to bring my expertise in data analysis and web development to contri
 ![SQL Server](https://img.icons8.com/color/48/sql.png) SQL Server, ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) Oracle, ![PostgreSQL](https://img.icons8.com/color/48/postgresql.png) PostgreSQL, ![MongoDB](https://img.icons8.com/color/48/mongodb.png) MongoDB
 
 #### Big Data Technologies:
-Cloudera, ![Hadoop](https://icons8.com/icon/69132/hadoop-distributed-file-system) Hadoop, Spark, ![Hive](https://icons8.com/icon/26058/hive) Hive
+Cloudera, ![Hadoop](https://icons8.com/icon/69132/hadoop-distributed-file-system) Hadoop, Spark, ![Hive]!(https://github.com/user-attachments/assets/8ac0f135-8089-435a-8161-798e883c6032)
+ Hive
 
 #### Web Development:
 ![Angular](https://img.icons8.com/color/48/angularjs.png) Angular, ![Node.js](https://img.icons8.com/color/48/nodejs.png) NodeJS, ![Express.js](https://img.icons8.com/color/48/express.png) ExpressJS, ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) Spring Boot
