@@ -33,8 +33,9 @@ Feel free to reach out to discuss collaboration or just to chat!
 
 
 ## 🚀 Career Highlights:
+- **BI Engineer at Metam (Since Octobre 2024)** : I developed Power BI dashboards to track key financial metrics, such as aging accounts and overdue receivables, enhancing financial management. I automated data ingestion and transformation workflows using Azure Synapse and Data Factory, improving reporting efficiency. Additionally, I implemented secure data management with Azure Data Lake to handle unstructured data and designed reports for SEO Managers, Campaign Managers, and Social Media teams, enabling real-time insights and strategy optimization. My work leveraged technologies such as Power BI, Azure Synapse, Azure Data Factory, SQL, REST API, and C#.
 
-- **BI Developer at Aziza Retail (2024 - Present)** :   Created a data migration app using **Node.js**, **SSIS** and **MSSQLSERVER**, integrated with Google Sheets and Google Drive. Automated coupon systems using **Ngtrend API** and implemented advanced security with **OAuth 2.0** and IP whitelisting.
+- **BI Developer at Aziza Retail (2024)** :   Created a data migration app using **Node.js**, **SSIS** and **MSSQLSERVER**, integrated with Google Sheets and Google Drive. Automated coupon systems using **Ngtrend API** and implemented advanced security with **OAuth 2.0** and IP whitelisting.
 - **Data Analyst Intern at Airbus (2023)** : Design and development of a solution for automating and optimizing budget tracking.
 - **Web Developement Instructor at GoMyCode(2022)** : Instructed backend technologies, emphasizing Node.js, Express.js, and MongoDB, while championing effective version control with Git.
 - **MEAN Stack Developer Intern at KNSD (2020)** : Built a CRM system with **Angular** and **Node.js**, improving user experience with real-time updates via **Socket.IO** and secure authentication with **JWT**.
