@@ -40,6 +40,10 @@ Feel free to reach out to discuss collaboration or just to chat!
 - **MEAN Stack Developer Intern at KNSD (2020)** : Built a CRM system with **Angular** and **Node.js**, improving user experience with real-time updates via **Socket.IO** and secure authentication with **JWT**.
 
 ## Notable Projects
+- Revenue and User Journey Analysis with A/B Testing : I created a Power BI dashboard to analyze revenue and user journeys, utilizing Power BI’s slicers, cards, and visualizations like funnel, pie, and line charts. The dashboard tracks user progression and behavior, while also performing statistical analysis on A/B testing data (t-tests, conversion rates). Python was used for data manipulation and calculations, with a focus on optimizing data processing and analysis for faster decision-making. This solution integrates key metrics, trends, and A/B testing insights to guide business strategies. [Revenue and User Journey Analysis with A/B Testingt](https://github.com/WassimSlim21/Revenue-and-User-Journey-Analysis-with-A-B-Testing-Impact)
+
+
+
 - Google APIs Data Management: A Node.js web app automating data management between Google Sheets, Drive, and SQL Server, featuring APIs for data import/export, file uploads, and ETL operations to streamline cross-platform data synchronization and file management.
 Repository: [Google_APIs_Data_Management](https://github.com/WassimSlim21/Google_APIs_Data_Management)
 
