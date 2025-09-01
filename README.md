@@ -33,7 +33,8 @@ Feel free to reach out to discuss collaboration or just to chat!
 
 
 ## 🚀 Career Highlights:
-- **BI Engineer at Metam (Since Octobre 2024)** : I developed Power BI dashboards to track key financial metrics, such as aging accounts and overdue receivables, enhancing financial management. I automated data ingestion and transformation workflows using Azure Synapse and Data Factory, improving reporting efficiency. Additionally, I implemented secure data management with Azure Data Lake to handle unstructured data and designed reports for SEO Managers, Campaign Managers, and Social Media teams, enabling real-time insights and strategy optimization. My work leveraged technologies such as Power BI, Azure Synapse, Azure Data Factory, SQL, REST API, and C#.
+- **BI Engineer at Metam (Since Octobre 2024)** : I designed a consolidated financial data model (CapEx, OpEx, budgets, forecasts) and developed Power BI dashboards for projects, payroll, invoices, and aging accounts, improving financial visibility and decision-making. I automated data ingestion and multi-environment synchronization using Azure Synapse, Data Factory, and Dataverse APIs, eliminating manual reconciliations and ensuring reliable reporting. I also managed CI/CD deployments of semantic models and pipelines through Azure DevOps, reinforcing governance and reducing deployment errors.
+Technologies: Power BI, DAX, Azure Synapse, Azure Data Factory, Azure SQL, Azure Data Lake, Dataverse API, C#, .NET, REST API, Azure DevOps.
 
 - **BI Developer at Aziza Retail (2024)** :   Created a data migration app using **Node.js**, **SSIS** and **MSSQLSERVER**, integrated with Google Sheets and Google Drive. Automated coupon systems using **Ngtrend API** and implemented advanced security with **OAuth 2.0** and IP whitelisting.
 - **Data Analyst Intern at Airbus (2023)** : Design and development of a solution for automating and optimizing budget tracking.
