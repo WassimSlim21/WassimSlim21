@@ -1,71 +1,92 @@
 # Hello there, fellow developers! 👋
 
-## I'm Wassim Slim, Full Stack Developer & Data Engineer 🚀
+## I'm Wassim Slim, BI Developer & Data Engineer 🚀  
 
-### About Me:
-I'm a passionate developer with a strong foundation in **web development** and **data engineering**. My expertise spans a variety of technologies, from building dynamic full-stack applications to engineering robust data pipelines for business intelligence.
+### 🎓 Certifications & Skills  
+![PL-300](https://img.shields.io/badge/Microsoft%20Certified-PL--300%20Data%20Analyst-blue?logo=microsoft)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Expert-yellow?logo=powerbi)  
+![Azure](https://img.shields.io/badge/Azure-Data%20Factory%20%7C%20Synapse-blue?logo=microsoftazure)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Advanced-red?logo=microsoftsqlserver)  
+![Python](https://img.shields.io/badge/Python-Data%20Processing-green?logo=python)  
+![C#](https://img.shields.io/badge/C%23-.NET%20Functions-blue?logo=dotnet)  
+![Node.js](https://img.shields.io/badge/Node.js-API%20Integration-brightgreen?logo=node.js)  
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)  
 
-### 🛠️ Tech Stack:
-- **Front-End Development:** ![Angular](https://img.icons8.com/color/48/angularjs.png) Angular, ![React](https://img.icons8.com/color/48/react-native.png) React, ![Symfony](https://img.icons8.com/color/48/symfony.png) Symfony 4
-- **Back-End Development:** ![Node.js](https://img.icons8.com/color/48/nodejs.png) Node.js, ![Express](https://img.icons8.com/color/48/express.png) Express.js, ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) Spring Boot,.NET
-- **Data Engineering:** ![SQL Server](https://img.icons8.com/color/48/sql.png) SQL Server, <img src="https://github.com/user-attachments/assets/3ec7710a-cb52-4f3a-9e02-f4b8bd7b9e51" width="48" height="48" alt="PostgreSQL"> PostgreSQL, ![MongoDB](https://img.icons8.com/color/48/mongodb.png) MongoDB, <img src="https://github.com/user-attachments/assets/adf26a33-88b6-4fa8-ae3b-2c25abb8adc5" width="48" height="48" alt="Hadoop"> Hadoop, Spark
-- **BI & Data Visualization:** ![Power BI](https://img.icons8.com/color/48/power-bi.png) Power BI, ![Tableau](https://img.icons8.com/color/48/tableau-software.png) Tableau, ![Looker Studio](https://img.icons8.com/color/48/google.png) Looker Studio, ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) Google Sheets, ![Excel](https://img.icons8.com/color/48/ms-excel.png) Excel
-- **DevOps & CI/CD:** ![Docker](https://img.icons8.com/color/48/docker.png) Docker, ![Kubernetes](https://img.icons8.com/color/48/kubernetes.png) Kubernetes, ![Jenkins](https://img.icons8.com/color/48/jenkins.png) Jenkins, ![Grafana](https://img.icons8.com/color/48/grafana.png) Grafana
-- **Languages & Tools:** ![Python](https://img.icons8.com/color/48/python.png) Python, ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java, ![JavaScript](https://img.icons8.com/color/48/javascript.png) JavaScript, ![TypeScript](https://img.icons8.com/color/48/typescript.png) TypeScript, ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) C#, ![Git](https://img.icons8.com/color/48/git.png) Git
-
-
-
-### 🎯 Future Goals:
-- I aim to continue developing my full-stack and data engineering expertise, integrating more advanced machine learning models and cloud solutions.
-
-### 📫 Let's Connect:
-- GitHub: [WassimSlim21](https://github.com/WassimSlim21)
-- LinkedIn: [Wassim Slim](https://www.linkedin.com/in/wassimslim)
-- Email: wassimslim18@gmail.com
-- Phone : +21655188740
-
-### ⚡ Fun Facts:
-Outside the coding world, I’m passionate about **music production** and collaborating on creative side projects! 🎵
+### 🌍 Languages  
+- 🇬🇧 English – B2 (Intermediate/Advanced)  
+- 🇫🇷 French – Fluent (DELF B2)  
+- 🇹🇳 Arabic – Native  
 
 ---
-Feel free to reach out to discuss collaboration or just to chat!
 
+### About Me:
+I’m a **Business Intelligence Developer & Data Engineer** passionate about transforming raw data into meaningful insights and building end-to-end solutions.  
+My expertise bridges **data engineering**, **analytics**, and **full-stack development**, enabling me to design data pipelines, create interactive dashboards, and develop applications that drive smarter decision-making.
 
+---
 
-## 🚀 Career Highlights:
-- **BI Engineer at Metam (Since Octobre 2024)** : I designed a consolidated financial data model (CapEx, OpEx, budgets, forecasts) and developed Power BI dashboards for projects, payroll, invoices, and aging accounts, improving financial visibility and decision-making. I automated data ingestion and multi-environment synchronization using Azure Synapse, Data Factory, and Dataverse APIs, eliminating manual reconciliations and ensuring reliable reporting. I also managed CI/CD deployments of semantic models and pipelines through Azure DevOps, reinforcing governance and reducing deployment errors.
+### 🛠️ Tech Stack:
+- **Business Intelligence & Analytics:** Power BI (DAX, RLS, Power Query), QlikView, Looker, Excel (VBA & TypeScript)  
+- **ETL & Data Engineering:** Azure Data Factory, Azure Synapse, SSIS, Talend, SQL Server, Azure Data Lake  
+- **Programming & APIs:** C#, .NET (6/7/8), Node.js, Python, Java, Spring Boot, REST APIs, Azure Functions  
+- **Cloud & DevOps:** Azure DevOps, GCP, Git, Microsoft Fabric  
+- **Front-End Development:** Angular, React  
 
-Technologies: Power BI, DAX, Azure Synapse, Azure Data Factory, Azure SQL, Azure Data Lake, Dataverse API, C#, .NET, REST API, Azure DevOps.
+---
 
-- **BI Developer at Aziza Retail (2024)** :   Created a data migration app using **Node.js**, **SSIS** and **MSSQLSERVER**, integrated with Google Sheets and Google Drive. Automated coupon systems using **Ngtrend API** and implemented advanced security with **OAuth 2.0** and IP whitelisting.
-- **Data Analyst Intern at Airbus (2023)** : Design and development of a solution for automating and optimizing budget tracking.
-- **Web Developement Instructor at GoMyCode(2022)** : Instructed backend technologies, emphasizing Node.js, Express.js, and MongoDB, while championing effective version control with Git.
-- **MEAN Stack Developer Intern at KNSD (2020)** : Built a CRM system with **Angular** and **Node.js**, improving user experience with real-time updates via **Socket.IO** and secure authentication with **JWT**.
+### 🚀 Career Highlights:
+- **BI Developer – Metam (2024–Present):**  
+  - Designed a consolidated **multi-entity financial model with RLS**.  
+  - Developed **financial & operational reports** (projects, payroll, invoices, GL).  
+  - Built **multi-source ETL pipelines** with Azure Data Factory & Synapse.  
+  - Automated documentation exports via **Power BI + AI Builder + Power Automate**.  
+  - Orchestrated **Azure Functions (.NET)** to manage Dataverse table sync.  
+  - Managed **CI/CD deployments** with Azure DevOps.  
 
-## Notable Projects
-- Revenue and User Journey Analysis with A/B Testing : I created a Power BI dashboard to analyze revenue and user journeys, utilizing Power BI’s slicers, cards, and visualizations like funnel, pie, and line charts. The dashboard tracks user progression and behavior, while also performing statistical analysis on A/B testing data (t-tests, conversion rates). Python was used for data manipulation and calculations, with a focus on optimizing data processing and analysis for faster decision-making. This solution integrates key metrics, trends, and A/B testing insights to guide business strategies. [Revenue and User Journey Analysis with A/B Testing](https://github.com/WassimSlim21/Revenue-and-User-Journey-Analysis-with-A-B-Testing-Impact)
+- **BI Developer – Aziza Retail (2024):**  
+  - Automated and centralized data flows across **sales, finance, marketing**.  
+  - Built **Power BI** and **QlikView dashboards** for sales and SMS campaigns.  
+  - Automated exports to **Google Sheets & Drive**, eliminating manual effort.  
 
+- **Data Analyst – Airbus SAS (2023):**  
+  - Standardized and automated **budget reporting & KPIs** across Europe.  
+  - Developed dashboards for **budget & cost tracking** in engineering quality.  
+  - Facilitated **international workshops** to unify KPIs & governance.  
 
+- **Web Development Instructor – GoMyCode (2022):**  
+  - Trained 20+ students in **Node.js, Express.js, MongoDB, SQL/NoSQL**.  
+  - Simplified complex backend concepts like MVC & Git workflows.  
 
-- Google APIs Data Management: A Node.js web app automating data management between Google Sheets, Drive, and SQL Server, featuring APIs for data import/export, file uploads, and ETL operations to streamline cross-platform data synchronization and file management.
-Repository: [Google_APIs_Data_Management](https://github.com/WassimSlim21/Google_APIs_Data_Management)
+- **MEAN Stack Developer – KNSD (2020):**  
+  - Developed a **CRM application** using the MEAN stack (MongoDB, Express.js, Angular, Node.js).  
+  - Implemented **real-time features** with Socket.IO and secured authentication with JWT.  
+  - Improved **user experience** through optimized data flows and modular architecture.  
 
+---
 
-- Breast cancer Analysis : Explore the application of machine learning techniques, specifically Decision Trees and Support Vector Machines (SVMs), in classifying breast cancer. Leveraging the scikit-learn library, this project delves into the analysis of a breast cancer dataset, aiming to build accurate and interpretable models for the diagnosis of malignancy.
-Repository :  [Breast cancer analysis](https://github.com/WassimSlim21/Breast_Cancer_Data_Analysis.git)
+### 📊 Notable Projects:
+- **[Revenue & User Journey Analysis with A/B Testing](https://github.com/WassimSlim21/Revenue-and-User-Journey-Analysis-with-A-B-Testing-Impact)** – Power BI + Python for funnel analysis, statistical testing, and revenue insights.  
+- **[Google APIs Data Management](https://github.com/WassimSlim21/Google_APIs_Data_Management)** – Node.js app for automated ETL between Google Sheets, Drive, and SQL Server.  
+- **[Breast Cancer Analysis](https://github.com/WassimSlim21/Breast_Cancer_Data_Analysis.git)** – ML with Decision Trees & SVM using scikit-learn.  
+- **[Formula 1 ETL & Reports](https://github.com/WassimSlim21/WefastReports.git)** – ETL processes and BI reporting for race insights.  
+- **[CRM MEAN Stack Application](https://github.com/WassimSlim21/CRM-)** – Real-time CRM with Angular, Node.js, Socket.IO, JWT.  
+- **[Angular CRUD & Routing Project](https://github.com/WassimSlim21/Projet-Angular-Crud-Routing)** – Angular app with CRUD operations and routing.  
+- **[Node.js Workshops](https://github.com/WassimSlim21/all_node_workshops)** – Hands-on Node.js & MongoDB projects.  
+- **More on GitHub:** Explore additional projects showcasing my web development and data analysis skills.  
 
-- Formula 1 Data Analysis: Leveraging my BI and data analysis skills, I've successfully completed projects related to Formula 1 data, including ETL processes and report generation.
-Repository: [Formula 1 ETL - Reports](https://github.com/WassimSlim21/WefastReports.git)
+---
 
-- Full-Stack CRM Application: I've been a key contributor to a CRM application using the MEAN stack (MongoDB, Express.js, Angular, Node.js).
-Repository: [CRM MEAN STACK Application](https://github.com/WassimSlim21/CRM-)
+### 🎯 Future Goals:
+I aim to deepen my expertise in **cloud BI ecosystems (Azure, Fabric)** and integrate **machine learning models** into data pipelines for predictive analytics.  
 
-- Angular Projects: I've created Angular applications with features such as CRUD operations and routing.
-Repository: [Angular CRUD and Routing Project](https://github.com/WassimSlim21/Projet-Angular-Crud-Routing)
+---
 
-- Node.js and MongoDB Workshops: I've participated in workshops and projects involving Node.js, Express.js, and MongoDB.
-Repository: [Node.js Workshops](https://github.com/WassimSlim21/all_node_workshops)
+### 📫 Let’s Connect:
+- GitHub: [WassimSlim21](https://github.com/WassimSlim21)  
+- LinkedIn: [Wassim Slim](https://www.linkedin.com/in/wassimslim)  
+- Email: [wassimslim.contact@gmail.com](mailto:wassimslim.contact@gmail.com)  
+- WhatsApp: [Chat](https://wa.me/21655188740)  
 
-- More on GitHub: Explore additional projects that showcase my web development and data analysis skills on my GitHub profile.
+---
 
-I'm excited to bring my expertise in data analysis and web development to contribute to innovative and challenging projects. Feel free to connect and explore my work!
+⚡ Outside of data and code, I’m passionate about **music production 🎵** and enjoy collaborating on creative side projects.  
