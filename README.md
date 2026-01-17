@@ -16,7 +16,15 @@ My work sits at the intersection of **Data Engineering, Business Intelligence, a
 ![Python](https://img.shields.io/badge/Python-Data%20Engineering-green?logo=python)
 ![C#](https://img.shields.io/badge/C%23-.NET%208-blue?logo=dotnet)
 ![Node.js](https://img.shields.io/badge/Node.js-ETL%20%26%20APIs-brightgreen?logo=node.js)
+## ☁️ Google Cloud Skill Badges
 
+![BigQuery](https://img.shields.io/badge/BigQuery-Data%20Warehouse-blue?logo=googlecloud)
+![Dataplex](https://img.shields.io/badge/Dataplex-Data%20Mesh-blue?logo=googlecloud)
+![Streaming](https://img.shields.io/badge/BigQuery-Streaming%20Analytics-blue?logo=googlecloud)
+![ML](https://img.shields.io/badge/Google%20Cloud-ML%20Data%20Preparation-blue?logo=googlecloud)
+![Data Sharing](https://img.shields.io/badge/Google%20Cloud-Data%20Sharing-blue?logo=googlecloud)
+
+**Issued by Google Cloud via Credly (May 2025)**
 ---
 
 ## 🌍 Languages
